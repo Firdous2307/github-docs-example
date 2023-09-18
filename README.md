@@ -109,6 +109,10 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - It should appear above return or enter key
 - but it may vary based on your keyboard layout.
 
+![Photo of Lore](pictures/lore.jpg)
+
+![Photo of Spiderverse](pictures/spiderverse.jpeg)
+
 
 ## External References
 
