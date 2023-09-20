@@ -52,7 +52,6 @@ end
 
 
 
-
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
 
@@ -67,6 +66,60 @@ Traceback (most recent call last):
 > Here is an example of using a codeblock for an error that appears in bash.
 
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure it nots a photo from your phone.
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. If it render on your computer screen it should be a screenshot.
+
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of you screen from your laptop, desktop or phone.
+
+This is not be confused with take a photo with your phone.
+
+
+
+To take screenshots on both macOS and Windows, you can use the following hotkeys:
+
+**For macOS:**
+
+1. **Entire Screen:** 
+   - Press `Command (⌘) + Shift + 3`
+   - The screenshot will be saved to your desktop by default.
+
+2. **Selected Portion:**
+   - Press `Command (⌘) + Shift + 4` 
+   - Drag to select the area of the screen you want to capture.
+   - The screenshot will be saved to your desktop by default.
+
+3. **Capture a Window:** 
+   - Press `Command (⌘) + Shift + 4`, then press `Spacebar`.
+   - Click on the window you want to capture.
+   - The screenshot will be saved to your desktop by default.
+
+4. **Capture Touch Bar (if you have one):**
+   - Press `Command (⌘) + Shift + 6`
+   - The screenshot will be saved to your desktop by default.
+
+**For Windows:**
+
+1. **Entire Screen:** 
+   - Press `PrtScn` (Print Screen) key.
+   - The screenshot is copied to the clipboard. You can paste it into an application like Paint or Word.
+
+2. **Active Window:** 
+   - Press `Alt + PrtScn`
+   - The screenshot of the active window is copied to the clipboard. You can paste it into an application.
+
+3. **Selected Portion using Snip & Sketch (available in recent Windows versions):**
+   - Press `Windows + Shift + S`
+   - Your screen will dim, and you can select an area to capture.
+   - The screenshot is copied to the clipboard. You can paste it into an application.
+
+4. **Using Snipping Tool (available in older Windows versions):**
+   - Search for "Snipping Tool" in the start menu.
+   - Open the application and click on "New" to take a screenshot.
+   - Save the screenshot.
 
 
 
@@ -109,10 +162,9 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - It should appear above return or enter key
 - but it may vary based on your keyboard layout.
 
-![Photo of Lore](pictures/lore.jpg)
 
-![Photo of Spiderverse](pictures/spiderverse.jpeg)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## External References
 
@@ -121,7 +173,6 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [GFM - Tasks Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)  <sup>[1]</sup>
 - [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]</sup>
-
 
 ![JJK TEAM](https://github.com/Firdous2307/github-docs-example/assets/124298708/8e59467b-c516-4e22-8cbe-10c6f10aeffa)
 
